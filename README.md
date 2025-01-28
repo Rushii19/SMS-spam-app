@@ -2,6 +2,7 @@
 
 SMS Spam Detection is a machine learning-based project that classifies text messages as either Spam or Not Spam (Ham). The project utilizes Natural Language Processing (NLP) techniques to preprocess the text and train a model for accurate classification.
 
+
 🚀 Features
 
 ✔️ Detects spam messages using machine learning. 
@@ -18,9 +19,13 @@ SMS Spam Detection is a machine learning-based project that classifies text mess
 🛠️ Tech Stack
 
 🔹 Python – Programming Language
+
 🔹 Pandas, NumPy – Data Processing
+
 🔹 NLTK, Scikit-learn – Machine Learning & NLP
+
 🔹 Streamlit – Web App Interface
+
 🔹 Jupyter Notebook – Model Development
 
 
@@ -32,14 +37,20 @@ We use the SMS Spam Collection Dataset available. The dataset contains ham (not 
 🎯 How It Works
 
 1️⃣ Data Preprocessing – Remove stopwords, punctuation, and tokenize text.
+
 2️⃣ Feature Extraction – Convert text into numerical form using TF-IDF.
+
 3️⃣ Model Training – Train Naïve Bayes / SVM / Random Forest model.
+
 4️⃣ Prediction – Classify messages as Spam or Ham.
+
 5️⃣ Deployment – Web-based UI using Streamlit.
 
 
 🔮 Future Enhancements
 
 ✅ Improve model accuracy with deep learning (LSTM, BERT).
+
 ✅ Deploy as a web API for real-world applications.
+
 ✅ Add multilingual spam detection.
