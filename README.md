@@ -15,7 +15,6 @@ SMS Spam Detection is a machine learning-based project that classifies text mess
 
 ✔️ Lightweight and easy to deploy.
 
-
 🛠️ Tech Stack
 
 🔹 Python – Programming Language
